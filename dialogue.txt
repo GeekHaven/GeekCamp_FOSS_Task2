@@ -68,5 +68,28 @@ Movie Dialogue: "Why so serious?" (Joker)
 Name: Kushal Bansal, Enrollment no: IIT2022021
 Movie dialogue: Tu samjha? Nahi tu nhi samjha
 
+Name : Piyush Tiwari , Enrolment no: IIT2022020
+movie dialogue:  Hum tum mein itne ched karenge ... ki confuse ho jaoge ki saans kahan se le ... aur paadein kahan se
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Name : Saiushasree Kasu, Enrollment Number : IEC2022082
 Movie Dialogue : "Mokkekadha ani peekesthe peeka kostha"
