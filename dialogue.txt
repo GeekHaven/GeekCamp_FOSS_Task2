@@ -44,3 +44,5 @@ Movie Dialogue: Kaamyaab hone ke liye nahin, Kaabil hone ke liye padho!
 Name: Deepanshu Singh
 Movie Dialogue: "Why so serious?" (Joker)
 
+Name:Rishika Agarwal IIT2022148
+Movie Dialogue:‘Hum tum mein itne ched karenge … ki confuse ho jaoge ki saans kahan se le … aur paadein kahan se.”
