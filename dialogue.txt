@@ -67,3 +67,7 @@ Movie Dialogue: "Why so serious?" (Joker)
 
 Name: Kushal Bansal, Enrollment no: IIT2022021
 Movie dialogue: Tu samjha? Nahi tu nhi samjha
+
+Name:Aryan Shah,Enrollment no:IIT2022247
+Movie Dialogue:only if it leads me to you
+
